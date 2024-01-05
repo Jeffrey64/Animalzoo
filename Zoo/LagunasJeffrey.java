@@ -12,6 +12,6 @@ public class LagunasJeffrey extends Animal
   }
   
   public String getType() {
-    return "Emperor  Penguin ";
+    return "Emperor Penguin ";
   }
 }
