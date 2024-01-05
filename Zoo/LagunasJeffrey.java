@@ -7,11 +7,11 @@
  */
 public class LagunasJeffrey extends Animal
 {
-  public RogerJaffe() {
-    super("Roger Jaffe", "red", 0);
+  public LagunasJeffrey() {
+    super("Jeffrey Lagunas", "black and white", 2);
   }
   
   public String getType() {
-    return "BoopleSnoot";
+    return "Emperor  Penguin ";
   }
 }

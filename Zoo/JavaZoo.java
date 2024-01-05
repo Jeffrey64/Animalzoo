@@ -15,7 +15,7 @@ public class JavaZoo
         
     // Change BoopleSnoot to the name of your animal class and run the 'main' 
     // method to test your class.  You can also test your class using BlueJ
-    String[] animalList = {"RogerJaffe"};
+    String[] animalList = {"LagunasJeffrey"};
     
     try {
       for (int i=0; i<animalList.length; i++) {
@@ -28,6 +28,10 @@ public class JavaZoo
     } catch (Exception e) {
       System.out.println("Someone messed up!");
       System.out.println(e.toString());
+
     }
   }
+  @Override public String getType() {
+    return "Gary";
+    }
 }

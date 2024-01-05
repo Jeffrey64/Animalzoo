@@ -2,7 +2,7 @@
 /**
  * Abstract class Animal
  * 
- * @author Mr. Jaffe
+ * @author Jeffrey Lagunas
  * @version 1.0 2017-07-13
  */
 public abstract class Animal
@@ -108,7 +108,7 @@ public abstract class Animal
    * @return The name of the animal (i.e. "Fido", "Rover")
    */
   public String getName() {
-    return "No name defined - bummer";
+    return "Gary";
   }
   
   /**
