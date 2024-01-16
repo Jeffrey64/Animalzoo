@@ -1,8 +1,12 @@
 #BlueJ class context
 comment0.target=JavaZoo
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ JavaZoo\ here.\r\n\ \r\n\ @author\ Mr.\ Jaffe\r\n\ @version\ 2017-07-014\r\n
+comment0.text=\n\ Write\ a\ description\ of\ class\ JavaZoo\ here.\n\ \n\ @author\ Mr.\ Jaffe\n\ @version\ 2017-07-014\n
 comment1.params=
 comment1.target=java.lang.String\ getName()
-comment2.params=args
-comment2.target=void\ main(java.lang.String[])
-numComments=3
+comment2.params=
+comment2.target=java.lang.String\ getDisposition()
+comment3.params=
+comment3.target=java.lang.String\ speak()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
